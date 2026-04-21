@@ -34,7 +34,7 @@ This project was an attempt to automate the detection-and-claim flow to particip
 
 ```
 ┌─────────────────────┐
-│   rso_bot.py        │
+│   bot.py        │
 │                     │
 │  ┌───────────────┐  │
 │  │ TeamWorkClient│  │ ← session cookies + x-api-token
@@ -163,7 +163,7 @@ No async, no scraping frameworks, no browser automation. Deliberately minimal �
 
 ```
 .
-├── rso_bot.py            # Main bot: client, filter logic, poll loop
+├── bot.py            # Main bot: client, filter logic, poll loop
 ├── config.example.py     # Template for user-specific settings
 ├── requirements.txt      # Just `requests`
 ├── .gitignore            # Excludes config.py and logs
