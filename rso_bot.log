@@ -1,0 +1,857 @@
+2026-04-19 17:35:22 [INFO] Bot starting. Poll every ~1.5s (+/- 0.3s). Skip-midnight=True, Dry-run=True, Days-ahead=30
+2026-04-19 17:35:22 [INFO] Logging in as Resident / 23023 ...
+2026-04-19 17:35:23 [INFO] Login OK. APP.Token=0ff983c6...
+2026-04-19 17:35:23 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:23 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:25 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:25 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:26 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:26 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:28 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:28 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:30 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:30 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:31 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:31 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:33 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:33 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:35 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:35 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:36 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:36 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:38 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:38 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:39 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:40 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:41 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:41 [ERROR] Failed to get shifts for 2026-04-28: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboard?date=2026-04-28&range=day&_=1776634541357
+2026-04-19 17:35:43 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:43 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:44 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:45 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:46 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:46 [ERROR] Failed to get shifts for 2026-04-28: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboard?date=2026-04-28&range=day&_=1776634546304
+2026-04-19 17:35:48 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:48 [ERROR] Failed to get shifts for 2026-04-28: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboard?date=2026-04-28&range=day&_=1776634548212
+2026-04-19 17:35:50 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:50 [ERROR] Failed to get shifts for 2026-04-28: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboard?date=2026-04-28&range=day&_=1776634550179
+2026-04-19 17:35:51 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:51 [ERROR] Failed to get shifts for 2026-04-28: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboard?date=2026-04-28&range=day&_=1776634551686
+2026-04-19 17:35:53 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:53 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:54 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:54 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:56 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:56 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:57 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:57 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:35:59 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:35:59 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:01 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:01 [ERROR] Failed to get shifts for 2026-04-28: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboard?date=2026-04-28&range=day&_=1776634561127
+2026-04-19 17:36:03 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:03 [ERROR] Failed to get shifts for 2026-04-28: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboard?date=2026-04-28&range=day&_=1776634563011
+2026-04-19 17:36:04 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:04 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:06 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:06 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:07 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:08 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:09 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:09 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:11 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:11 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:12 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:12 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:14 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:14 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:15 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:15 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:17 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:17 [ERROR] Failed to get shifts for 2026-04-28: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboard?date=2026-04-28&range=day&_=1776634577211
+2026-04-19 17:36:18 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:18 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:20 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:20 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:22 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:22 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:24 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:24 [ERROR] Failed to get shifts for 2026-04-28: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboard?date=2026-04-28&range=day&_=1776634584047
+2026-04-19 17:36:25 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:25 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:27 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:27 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:28 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:28 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:30 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:30 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:31 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:32 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:33 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:33 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:35 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:35 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:37 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:37 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:39 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:39 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:40 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:41 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:42 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:42 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:44 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:44 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:46 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:46 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:48 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:48 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:50 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:50 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:51 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:51 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:53 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:53 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:55 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:55 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:57 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:57 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:36:58 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:36:58 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:37:00 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:37:00 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:37:02 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:37:02 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:37:02 [INFO] Heartbeat: cycle=60, attempted=0, claimed=0
+2026-04-19 17:37:03 [INFO] Shifts indicated on 1 day(s): 04/28
+2026-04-19 17:37:04 [INFO] SKIP [id=51768513] Tue 04/28 12:00AM-08:00AM @ Davenport A (2) (RSO Boston) group='Midnight' toMe=True (midnight-shift-skipped)
+2026-04-19 17:37:04 [INFO] Stopped by user (Ctrl-C). Claimed total: 0
+2026-04-19 17:44:07 [INFO] Bot starting. Poll every ~1.5s (+/- 0.3s). Skip-midnight=True, Dry-run=True, Days-ahead=30
+2026-04-19 17:44:07 [INFO] Logging in as Resident / 23023 ...
+2026-04-19 17:44:07 [INFO] Login OK. APP.Token=3c12d21c...
+2026-04-19 17:44:07 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:07 [INFO] CLAIMING [id=51766566] Mon 04/20 08:00AM-12:00PM @ Rubenstein Hall (RSO Boston) group='A' toMe=True ...
+2026-04-19 17:44:07 [INFO] [DRY-RUN] Would PUT https://tmwork.net/api/shift/swap/quick-claim params={'id': 51766566, 'bid': 3557, 'schid': ''}
+2026-04-19 17:44:07 [INFO] ✅ CLAIMED [id=51766566] Mon 04/20 08:00AM-12:00PM @ Rubenstein Hall (RSO Boston) group='A' toMe=True in 0ms (dry-run)
+2026-04-19 17:44:09 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:11 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:12 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:14 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:16 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:17 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:19 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:20 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:22 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:24 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:24 [ERROR] Failed to get shifts for 2026-04-20: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboard?date=2026-04-20&range=day&_=1776635064325
+2026-04-19 17:44:26 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:27 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:29 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:30 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:32 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:34 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:35 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:37 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:37 [ERROR] Failed to get shifts for 2026-04-20: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboard?date=2026-04-20&range=day&_=1776635077311
+2026-04-19 17:44:39 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:44:40 [INFO] Stopped by user (Ctrl-C). Claimed total: 1
+2026-04-19 17:52:06 [INFO] Bot starting. Poll every ~1.5s (+/- 0.3s). Skip-midnight=True, Dry-run=True, Days-ahead=30
+2026-04-19 17:52:06 [INFO] Logging in as Resident / 23023 ...
+2026-04-19 17:52:08 [INFO] Login OK. APP.Token=1a24fbe6...
+2026-04-19 17:52:08 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:08 [INFO] CLAIMING [id=51766566] Mon 04/20 08:00AM-12:00PM @ Rubenstein Hall (RSO Boston) group='A' toMe=True ...
+2026-04-19 17:52:08 [INFO] [DRY-RUN] Would PUT https://tmwork.net/api/shift/swap/quick-claim params={'id': 51766566, 'bid': 3557, 'schid': ''}
+2026-04-19 17:52:08 [INFO] ✅ CLAIMED [id=51766566] Mon 04/20 08:00AM-12:00PM @ Rubenstein Hall (RSO Boston) group='A' toMe=True in 0ms (dry-run)
+2026-04-19 17:52:09 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:11 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:13 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:15 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:16 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:18 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:19 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:21 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:22 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:24 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:25 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:27 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:29 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:30 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:32 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:34 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:35 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:37 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:38 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:40 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:42 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:44 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:45 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:47 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:47 [ERROR] Failed to get shifts for 2026-04-20: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboard?date=2026-04-20&range=day&_=1776635567882
+2026-04-19 17:52:49 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:51 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:52 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:52:52 [INFO] Stopped by user (Ctrl-C). Claimed total: 1
+2026-04-19 17:55:27 [INFO] Bot starting. Poll every ~1.5s (+/- 0.3s). Skip-midnight=True, Dry-run=True, Days-ahead=30
+2026-04-19 17:55:27 [INFO] Logging in as Resident / 23023 ...
+2026-04-19 17:55:28 [INFO] Login OK. APP.Token=27d657ff...
+2026-04-19 17:55:28 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 17:55:28 [INFO] CLAIMING [id=51766566] Mon 04/20 08:00AM-12:00PM @ Rubenstein Hall (RSO Boston) group='A' toMe=True ...
+2026-04-19 17:55:28 [INFO] [DRY-RUN] Would PUT https://tmwork.net/api/shift/swap/quick-claim params={'id': 51766566, 'bid': 3557, 'schid': ''}
+2026-04-19 17:55:28 [INFO] ✅ CLAIMED [id=51766566] Mon 04/20 08:00AM-12:00PM @ Rubenstein Hall (RSO Boston) group='A' toMe=True in 0ms (dry-run)
+2026-04-19 17:57:03 [INFO] Heartbeat: cycle=60, attempted=1, claimed=1
+2026-04-19 17:58:38 [INFO] Heartbeat: cycle=120, attempted=1, claimed=1
+2026-04-19 18:00:15 [INFO] Heartbeat: cycle=180, attempted=1, claimed=1
+2026-04-19 18:01:53 [INFO] Heartbeat: cycle=240, attempted=1, claimed=1
+2026-04-19 18:02:41 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636161651
+2026-04-19 18:02:43 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636162990
+2026-04-19 18:02:44 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636164794
+2026-04-19 18:02:46 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636166706
+2026-04-19 18:02:48 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636168516
+2026-04-19 18:02:50 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636170179
+2026-04-19 18:02:51 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636171580
+2026-04-19 18:02:52 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636172918
+2026-04-19 18:02:54 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636174352
+2026-04-19 18:02:56 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636175763
+2026-04-19 18:02:57 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636177546
+2026-04-19 18:02:59 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636179063
+2026-04-19 18:03:00 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636180392
+2026-04-19 18:03:02 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636182019
+2026-04-19 18:03:03 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636183392
+2026-04-19 18:03:05 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636185048
+2026-04-19 18:03:06 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636186911
+2026-04-19 18:03:08 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636188536
+2026-04-19 18:03:10 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636190067
+2026-04-19 18:03:11 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636191920
+2026-04-19 18:03:13 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636193521
+2026-04-19 18:03:15 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636195019
+2026-04-19 18:03:16 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636196620
+2026-04-19 18:03:18 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636198380
+2026-04-19 18:03:20 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636200155
+2026-04-19 18:03:22 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636202002
+2026-04-19 18:03:23 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636203712
+2026-04-19 18:03:25 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636205409
+2026-04-19 18:03:26 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636206841
+2026-04-19 18:03:28 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636208123
+2026-04-19 18:03:29 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636209430
+2026-04-19 18:03:29 [INFO] Heartbeat: cycle=300, attempted=1, claimed=1
+2026-04-19 18:03:31 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636210980
+2026-04-19 18:03:32 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636212678
+2026-04-19 18:03:34 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636214408
+2026-04-19 18:03:36 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636216004
+2026-04-19 18:03:37 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636217732
+2026-04-19 18:03:39 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636219246
+2026-04-19 18:03:40 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636220730
+2026-04-19 18:03:42 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636222267
+2026-04-19 18:03:44 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636224123
+2026-04-19 18:03:46 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636226016
+2026-04-19 18:03:47 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636227491
+2026-04-19 18:03:49 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636229196
+2026-04-19 18:03:51 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636230919
+2026-04-19 18:03:52 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636232426
+2026-04-19 18:03:54 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636234280
+2026-04-19 18:03:55 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636235614
+2026-04-19 18:03:57 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636237080
+2026-04-19 18:03:58 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636238514
+2026-04-19 18:04:00 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636240321
+2026-04-19 18:04:02 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636242120
+2026-04-19 18:04:03 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636243557
+2026-04-19 18:04:05 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636245303
+2026-04-19 18:04:07 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636247053
+2026-04-19 18:04:08 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636248366
+2026-04-19 18:04:10 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636249935
+2026-04-19 18:04:11 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636251582
+2026-04-19 18:04:13 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636253046
+2026-04-19 18:04:14 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636254842
+2026-04-19 18:04:16 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636256583
+2026-04-19 18:04:18 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636258473
+2026-04-19 18:04:19 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636259855
+2026-04-19 18:04:21 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636261215
+2026-04-19 18:04:23 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636262934
+2026-04-19 18:04:24 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636264551
+2026-04-19 18:04:26 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636266030
+2026-04-19 18:04:27 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636267465
+2026-04-19 18:04:29 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636269032
+2026-04-19 18:04:30 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636270838
+2026-04-19 18:04:32 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636272168
+2026-04-19 18:04:34 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636273921
+2026-04-19 18:04:35 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636275698
+2026-04-19 18:04:37 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636277174
+2026-04-19 18:04:38 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636278618
+2026-04-19 18:04:40 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636280182
+2026-04-19 18:04:41 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636281850
+2026-04-19 18:04:43 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636283702
+2026-04-19 18:04:45 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636285155
+2026-04-19 18:04:46 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636286900
+2026-04-19 18:04:48 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636288562
+2026-04-19 18:04:50 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636289999
+2026-04-19 18:04:51 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636291576
+2026-04-19 18:04:53 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636293068
+2026-04-19 18:04:54 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636294917
+2026-04-19 18:04:56 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636296515
+2026-04-19 18:04:58 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636298250
+2026-04-19 18:05:00 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636299905
+2026-04-19 18:05:01 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636301586
+2026-04-19 18:05:03 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636303179
+2026-04-19 18:05:04 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636304518
+2026-04-19 18:05:06 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636305957
+2026-04-19 18:05:06 [INFO] Heartbeat: cycle=360, attempted=1, claimed=1
+2026-04-19 18:05:07 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636307567
+2026-04-19 18:05:09 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636309042
+2026-04-19 18:05:10 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636310471
+2026-04-19 18:05:11 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636311882
+2026-04-19 18:05:13 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636313167
+2026-04-19 18:05:14 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636314794
+2026-04-19 18:05:16 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636316596
+2026-04-19 18:05:18 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636318030
+2026-04-19 18:05:19 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636319399
+2026-04-19 18:05:21 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636321208
+2026-04-19 18:05:22 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636322875
+2026-04-19 18:05:24 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636324495
+2026-04-19 18:05:26 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636326229
+2026-04-19 18:05:28 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636327856
+2026-04-19 18:05:29 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636329635
+2026-04-19 18:05:31 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636331030
+2026-04-19 18:05:32 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636332504
+2026-04-19 18:05:34 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636334344
+2026-04-19 18:05:35 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636335885
+2026-04-19 18:05:37 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636337539
+2026-04-19 18:05:39 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636339003
+2026-04-19 18:05:40 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636340433
+2026-04-19 18:05:41 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636341913
+2026-04-19 18:05:43 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636343311
+2026-04-19 18:05:45 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636345067
+2026-04-19 18:05:46 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636346401
+2026-04-19 18:05:47 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636347738
+2026-04-19 18:05:49 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636349368
+2026-04-19 18:05:51 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636351110
+2026-04-19 18:05:52 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636352809
+2026-04-19 18:05:54 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636354195
+2026-04-19 18:05:55 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636355806
+2026-04-19 18:05:57 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636357281
+2026-04-19 18:05:58 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636358667
+2026-04-19 18:06:00 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636360160
+2026-04-19 18:06:01 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636361646
+2026-04-19 18:06:03 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636363146
+2026-04-19 18:06:04 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636364619
+2026-04-19 18:06:06 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636366440
+2026-04-19 18:06:08 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636368170
+2026-04-19 18:06:10 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636369893
+2026-04-19 18:06:11 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636371414
+2026-04-19 18:06:12 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636372918
+2026-04-19 18:06:14 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636374443
+2026-04-19 18:06:16 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636375989
+2026-04-19 18:06:17 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636377640
+2026-04-19 18:06:19 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636379237
+2026-04-19 18:06:21 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636380982
+2026-04-19 18:06:22 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636382330
+2026-04-19 18:06:24 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636384149
+2026-04-19 18:06:25 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636385450
+2026-04-19 18:06:27 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636387204
+2026-04-19 18:06:29 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636388980
+2026-04-19 18:06:30 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636390745
+2026-04-19 18:06:32 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636392446
+2026-04-19 18:06:34 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636394282
+2026-04-19 18:06:35 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636395871
+2026-04-19 18:06:37 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636397398
+2026-04-19 18:06:39 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636399251
+2026-04-19 18:06:40 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636400699
+2026-04-19 18:06:40 [INFO] Heartbeat: cycle=420, attempted=1, claimed=1
+2026-04-19 18:06:42 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636402113
+2026-04-19 18:06:44 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636404185
+2026-04-19 18:06:46 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636405933
+2026-04-19 18:06:47 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636407328
+2026-04-19 18:06:48 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636408918
+2026-04-19 18:06:50 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636410625
+2026-04-19 18:06:52 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636412440
+2026-04-19 18:06:54 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636414061
+2026-04-19 18:06:55 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636415606
+2026-04-19 18:06:57 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636417148
+2026-04-19 18:06:58 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636418541
+2026-04-19 18:07:00 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636420040
+2026-04-19 18:07:01 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636421895
+2026-04-19 18:07:03 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636423532
+2026-04-19 18:07:05 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636425128
+2026-04-19 18:07:06 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636426628
+2026-04-19 18:07:08 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636428338
+2026-04-19 18:07:10 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636429918
+2026-04-19 18:07:11 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636431732
+2026-04-19 18:07:13 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636433157
+2026-04-19 18:07:14 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636434491
+2026-04-19 18:07:16 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636436026
+2026-04-19 18:07:17 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636437436
+2026-04-19 18:07:18 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636438833
+2026-04-19 18:07:20 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636440452
+2026-04-19 18:07:21 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636441805
+2026-04-19 18:07:23 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636443605
+2026-04-19 18:07:25 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636445434
+2026-04-19 18:07:27 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636447267
+2026-04-19 18:07:29 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636448974
+2026-04-19 18:07:30 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636450740
+2026-04-19 18:07:32 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636452379
+2026-04-19 18:07:33 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636453882
+2026-04-19 18:07:35 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636455752
+2026-04-19 18:07:37 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636457139
+2026-04-19 18:07:38 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636458573
+2026-04-19 18:07:39 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636459924
+2026-04-19 18:07:41 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636461225
+2026-04-19 18:07:42 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636462738
+2026-04-19 18:07:44 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636464031
+2026-04-19 18:07:45 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636465716
+2026-04-19 18:07:47 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776636467161
+2026-04-19 18:07:48 [INFO] Stopped by user (Ctrl-C). Claimed total: 1
+2026-04-19 18:19:04 [INFO] Bot starting. Poll every ~1.5s (+/- 0.3s). Skip-midnight=True, Dry-run=False, Days-ahead=30
+2026-04-19 18:19:04 [INFO] Logging in as Resident / 23023 ...
+2026-04-19 18:19:05 [INFO] Login OK. APP.Token=f472959e...
+2026-04-19 18:19:05 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776637145402
+2026-04-19 18:19:07 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776637146902
+2026-04-19 18:19:08 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776637148430
+2026-04-19 18:19:09 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776637149830
+2026-04-19 18:19:11 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776637151609
+2026-04-19 18:19:13 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776637153045
+2026-04-19 18:19:14 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776637154829
+2026-04-19 18:19:15 [INFO] Stopped by user (Ctrl-C). Claimed total: 0
+2026-04-19 18:19:45 [INFO] Bot starting. Poll every ~1.5s (+/- 0.3s). Skip-midnight=True, Dry-run=False, Days-ahead=30
+2026-04-19 18:19:45 [INFO] Logging in as Resident / 23023 ...
+2026-04-19 18:19:45 [INFO] Login OK. APP.Token=63dc82a3...
+2026-04-19 18:19:45 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776637185897
+2026-04-19 18:19:47 [ERROR] Failed to get swap counts: 400 Client Error: Bad Request for url: https://tmwork.net/api/shift/swapboardCounts?date=2026-04-19&fillgaps=true&_=1776637187672
+2026-04-19 18:19:48 [INFO] Stopped by user (Ctrl-C). Claimed total: 0
+2026-04-19 19:30:59 [INFO] Bot starting. Poll every ~2.0s (+/- 0.4s). Skip-midnight=True, Dry-run=False, Days-ahead=30
+2026-04-19 19:30:59 [INFO] Logging in as Resident / 23023 ...
+2026-04-19 19:30:59 [INFO] Login OK. APP.Token=ac19ce2d...
+2026-04-19 19:30:59 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 19:31:00 [INFO] CLAIMING [id=51766566] Mon 04/20 08:00AM-12:00PM @ Rubenstein Hall (RSO Boston) group='A' toMe=True ...
+2026-04-19 19:31:00 [INFO] ✅ CLAIMED [id=51766566] Mon 04/20 08:00AM-12:00PM @ Rubenstein Hall (RSO Boston) group='A' toMe=True in 463ms (claimed)
+2026-04-19 19:33:07 [INFO] Heartbeat: cycle=60, attempted=1, claimed=1
+2026-04-19 19:35:13 [INFO] Heartbeat: cycle=120, attempted=1, claimed=1
+2026-04-19 19:37:18 [INFO] Heartbeat: cycle=180, attempted=1, claimed=1
+2026-04-19 19:39:27 [INFO] Heartbeat: cycle=240, attempted=1, claimed=1
+2026-04-19 19:41:36 [INFO] Heartbeat: cycle=300, attempted=1, claimed=1
+2026-04-19 19:42:43 [INFO] Stopped by user (Ctrl-C). Claimed total: 1
+2026-04-19 19:59:17 [INFO] Bot starting. Poll every ~2.0s (+/- 0.4s). Skip-midnight=True, Min-lead-time=60min, Sleep-window=23:00-08:00 blocks 08:00-12:00 shifts, Dry-run=False, Days-ahead=30
+2026-04-19 19:59:17 [INFO] Logging in as Resident / 23023 ...
+2026-04-19 19:59:18 [INFO] Login OK. APP.Token=a4c3d117...
+2026-04-19 20:01:22 [INFO] Heartbeat: cycle=60, attempted=0, claimed=0
+2026-04-19 20:03:40 [INFO] Heartbeat: cycle=120, attempted=0, claimed=0
+2026-04-19 20:05:53 [INFO] Heartbeat: cycle=180, attempted=0, claimed=0
+2026-04-19 20:08:04 [INFO] Heartbeat: cycle=240, attempted=0, claimed=0
+2026-04-19 20:08:27 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:29 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:32 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:34 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:36 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:38 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:41 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:42 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:45 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:47 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:48 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:50 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:53 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:55 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:57 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:08:59 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:02 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:04 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:06 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:08 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:10 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:12 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:15 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:17 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:19 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:21 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:23 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:25 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:27 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:30 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:32 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:33 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:35 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:37 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:39 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:41 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:43 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:45 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:48 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:50 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:52 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:55 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:57 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:09:59 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:01 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:02 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:05 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:07 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:09 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:11 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:11 [INFO] Heartbeat: cycle=300, attempted=0, claimed=0
+2026-04-19 20:10:14 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:16 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:18 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:21 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:23 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:25 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:27 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:30 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:32 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:34 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:36 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:38 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:41 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:43 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:45 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:47 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:50 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:52 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:54 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:56 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:10:58 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:00 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:02 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:04 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:07 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:08 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:10 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:12 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:15 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:17 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:19 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:21 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:23 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:25 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:28 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:30 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:32 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:34 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:36 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:38 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:40 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:42 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:44 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:47 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:49 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:51 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:53 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:55 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:57 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:11:59 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:01 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:03 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:05 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:07 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:09 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:11 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:13 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:15 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:18 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:20 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:20 [INFO] Heartbeat: cycle=360, attempted=0, claimed=0
+2026-04-19 20:12:21 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:24 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:26 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:28 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:30 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:32 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:34 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:36 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:38 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:40 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:42 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:44 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:46 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:48 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:50 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:52 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:55 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:57 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:12:59 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:01 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:03 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:05 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:07 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:09 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:11 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:13 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:15 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:18 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:20 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:22 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:24 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:26 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:29 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:31 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:33 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:35 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:37 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:39 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:42 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:44 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:46 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:47 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:49 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:51 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:54 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:55 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:57 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:13:59 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:02 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:04 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:06 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:08 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:12 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:14 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:16 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:18 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:21 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:23 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:25 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:27 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:27 [INFO] Heartbeat: cycle=420, attempted=0, claimed=0
+2026-04-19 20:14:29 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:31 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:33 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:35 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:38 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:40 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:42 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:44 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:46 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:48 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:51 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:53 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:55 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:57 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:14:59 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:00 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:03 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:05 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:07 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:09 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:11 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:13 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:15 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:18 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:20 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:22 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:24 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:26 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:27 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:29 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:31 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:33 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:35 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:37 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:39 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:41 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:43 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:45 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:47 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:50 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:52 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:54 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:56 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:15:58 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:01 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:03 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:04 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:07 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:09 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:11 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:13 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:15 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:17 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:19 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:22 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:24 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:26 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:28 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:30 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:32 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:32 [INFO] Heartbeat: cycle=480, attempted=0, claimed=0
+2026-04-19 20:16:34 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:35 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:37 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:40 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:42 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:44 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:46 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:49 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:51 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:53 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:55 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:57 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:16:59 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:01 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:03 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:05 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:08 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:10 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:12 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:14 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:16 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:18 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:20 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:22 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:24 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:27 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:29 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:31 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:33 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:35 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:37 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:39 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:40 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:43 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:45 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:47 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:50 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:52 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:54 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:57 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:17:59 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:01 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:04 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:06 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:08 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:10 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:12 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:14 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:17 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:18 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:21 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:23 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:25 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:27 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:29 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:32 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:34 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:35 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:38 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:40 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:40 [INFO] Heartbeat: cycle=540, attempted=0, claimed=0
+2026-04-19 20:18:42 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:45 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:47 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:50 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:51 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:53 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:55 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:18:58 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:00 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:02 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:05 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:06 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:08 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:10 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:12 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:14 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:16 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:18 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:20 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:22 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:24 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:26 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:28 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:31 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:33 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:35 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:37 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:39 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:41 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:44 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:46 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:48 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:50 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:51 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:53 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:55 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:57 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:19:59 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:01 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:03 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:05 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:08 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:09 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:12 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:14 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:16 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:18 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:21 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:23 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:25 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:27 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:29 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:32 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:33 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:35 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:37 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:39 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:41 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:43 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:46 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:46 [INFO] Heartbeat: cycle=600, attempted=0, claimed=0
+2026-04-19 20:20:48 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:50 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:52 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:54 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:56 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:20:58 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:00 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:02 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:05 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:07 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:08 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:11 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:13 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:14 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:16 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:18 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:20 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:23 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:24 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:27 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:29 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:31 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:33 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:35 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:37 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:39 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:41 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:43 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:46 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:48 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:50 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:52 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:54 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:56 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:21:58 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:22:00 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:22:02 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:22:05 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:22:07 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:22:09 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:22:11 [ERROR] Failed to get swap counts: Rate limited, retry after 30.0s
+2026-04-19 20:22:12 [INFO] Stopped by user (Ctrl-C). Claimed total: 0
+2026-04-19 20:38:26 [INFO] Bot starting. Poll every ~2.0s (+/- 0.4s). Skip-midnight=True, Min-lead-time=60min, Sleep-window=23:00-08:00 blocks 08:00-12:00 shifts, Dry-run=False, Days-ahead=30
+2026-04-19 20:38:26 [INFO] Logging in as Resident / 23023 ...
+2026-04-19 20:38:27 [INFO] Login OK. APP.Token=eb2dc9a8...
+2026-04-19 20:38:27 [WARNING] ⚠️  Server rate-limited (consecutive=1). Backing off for 30s. If this keeps happening, increase POLL_INTERVAL_SECONDS in config.py.
+2026-04-19 20:38:31 [INFO] Stopped by user (Ctrl-C). Claimed total: 0
+2026-04-19 21:23:01 [INFO] Bot starting. Poll every ~4.0s (+/- 0.5s). Skip-midnight=True, Min-lead-time=60min, Sleep-window=23:00-08:00 blocks 08:00-12:00 shifts, Dry-run=False, Days-ahead=30
+2026-04-19 21:23:01 [INFO] Logging in as Resident / 23023 ...
+2026-04-19 21:23:01 [INFO] Login OK. APP.Token=7858343d...
+2026-04-19 21:27:05 [INFO] Heartbeat: cycle=60, attempted=0, claimed=0
+2026-04-19 21:31:11 [INFO] Heartbeat: cycle=120, attempted=0, claimed=0
+2026-04-19 21:35:19 [INFO] Heartbeat: cycle=180, attempted=0, claimed=0
+2026-04-19 21:39:22 [INFO] Heartbeat: cycle=240, attempted=0, claimed=0
+2026-04-19 21:43:29 [INFO] Heartbeat: cycle=300, attempted=0, claimed=0
+2026-04-19 21:47:38 [INFO] Heartbeat: cycle=360, attempted=0, claimed=0
+2026-04-19 21:51:45 [INFO] Heartbeat: cycle=420, attempted=0, claimed=0
+2026-04-19 21:55:52 [INFO] Heartbeat: cycle=480, attempted=0, claimed=0
+2026-04-19 21:59:59 [INFO] Heartbeat: cycle=540, attempted=0, claimed=0
+2026-04-19 22:03:48 [INFO] Shifts indicated on 1 day(s): 04/20
+2026-04-19 22:03:49 [INFO] CLAIMING [id=51920930] Mon 04/20 08:45AM-01:45PM @ Hamper Station Duty (RSO Boston) group='Special' toMe=False ...
+2026-04-19 22:03:49 [WARNING] ❌ FAILED [id=51920930] Mon 04/20 08:45AM-01:45PM @ Hamper Station Duty (RSO Boston) group='Special' toMe=False in 136ms (http=417 body='Times open in schedule?')
+2026-04-19 22:04:01 [WARNING] ⚠️  Server rate-limited (consecutive=1). Backing off for 30s. If this keeps happening, increase POLL_INTERVAL_SECONDS in config.py.
+2026-04-19 22:04:31 [WARNING] ⚠️  Server rate-limited (consecutive=2). Backing off for 60s. If this keeps happening, increase POLL_INTERVAL_SECONDS in config.py.
+2026-04-19 22:04:45 [INFO] Stopped by user (Ctrl-C). Claimed total: 0
